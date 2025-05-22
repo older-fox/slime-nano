@@ -26,6 +26,9 @@ Please note that I reside in China, so I have used some parts that **may only** 
 
 If you have better replacement parts or substitutes, you can directly submit an ISSUE to merge or update the purchase link.
 
+**Attention when submitting PCB orders: Please choose the thinnest possible PCB, otherwise it may not fit into the casing. In my example, I used a PCB with a thickness of 0.8mm
+Manufacturers may have different quotes for different thicknesses, please choose the one that you think is suitable!**
+
 **The quantity is FOR EACH ONE OF TRACKERS!**
 
 | No. | Quantity |          Type          |     Spec      |                     Designator                     |              Footprint              | Manufacturer Part Number | Manufacturer | Link |
@@ -61,6 +64,7 @@ If you have better replacement parts or substitutes, you can directly submit an 
 | 29  |    1     | Serial port conversion |    CH340K     |                         U8                         | ESOP-10_L4.9-W3.9-P1.00-LS6.0-BL-EP |          CH340K          |     WCH      |      |
 | 30  |    1     |  USB Type-C connector  | TYPE-C 16PIN  |                        USB1                        |    USB-C-SMD_TYPE-C-6PIN-2MD-073    |       TYPE-C 16PIN       |   SHOU HAN   |      |
 | 31  |    1     |       Oscillator       |   32.768kHz   |                         X1                         |          FC-135R_L3.2-W1.5          |      Q13FC13500004       |    EPSON     |      |
+| 32  |    1     |        Battery         | 503030-450mah |                         -                          |                  -                  |            -             |      -       |      |
 
 
 _1. **H1** are used for connect battery, you don't have to buy this._
